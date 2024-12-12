@@ -1,6 +1,6 @@
 #include iosstream
 int main(){
 
-std::cout << "<3" << endl;
+std::cout << "Hello world" << endl;
 
 }
